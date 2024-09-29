@@ -31,7 +31,7 @@ Each conversion is stored in a list for display in the history section.
 ## Steps:
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/temp_converter.git
+git clone https://github.com/tomunizua/temp_converter.git
 ```
 3. Navigate to the project directory:
 ```
